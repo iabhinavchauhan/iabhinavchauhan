@@ -2,8 +2,6 @@
 
 ### A passionate AI MERN Stack Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iabhinavchauhan" alt="iabhinavchauhan" /></a> </p>
-
 - 🔭 I'm currently working on **MERN Stack projects focused on building scalable and user-friendly web applications.**
 
 - 🌱 I'm currently learning **HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB, Generative AI, LLM, RAG, Agentic AI and more..**

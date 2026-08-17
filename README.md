@@ -1,4 +1,4 @@
-# Hi 👋, I'm ABHINAV CHAUHAN
+# Hi, I'm ABHINAV CHAUHAN...
 
 ### A passionate AI MERN Stack Developer
 

@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **iabhinavchauhan.ac@gmail.com**
 
-- ⚡ Fun fact **I love turning ideas into real-world web applications — and I think I'm pretty funny too**
+- ⚡ Fun fact **I love turning ideas into real-world web applications**
 
 - 👨‍💻 All of my projects are available at **[https://abhinavchauhansite.netlify.app](https://abhinavchauhansite.netlify.app)**
 

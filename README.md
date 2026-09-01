@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs, and Web Development.**
 
-- 📫 How to reach me **iabhinavchauhan.ac@gmail.com**
-
 - ⚡ Fun fact **I love turning ideas into real-world web applications.**
+
+- 📫 How to reach me **iabhinavchauhan.ac@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://abhinavchauhansite.netlify.app](https://abhinavchauhansite.netlify.app)**
 

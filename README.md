@@ -8,8 +8,6 @@
 
 - 👯 I'm looking to collaborate on **Open-source projects and interesting web development projects.**
 
-- 🤝 I'm looking for help with **System Design and writing scalable applications.**
-
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs, and Web Development.**
 
 - 📫 How to reach me **iabhinavchauhan.ac@gmail.com**

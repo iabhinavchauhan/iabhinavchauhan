@@ -2,19 +2,19 @@
 
 ### A passionate AI MERN Stack Developer
 
-- 🔭 I'm currently working on **MERN Stack projects focused on building scalable and user-friendly web applications.**
+- I'm currently working on **MERN Stack projects focused on building scalable and user-friendly web applications.**
 
-- 🌱 I'm currently learning **HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB, Generative AI, LLM, RAG, Agentic AI and more..**
+- I'm currently learning **HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB, Generative AI, LLM, RAG, Agentic AI and more..**
 
-- 👯 I'm looking to collaborate on **Open-source projects and interesting web development projects.**
+- I'm looking to collaborate on **Open-source projects and interesting web development projects.**
 
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs, and Web Development.**
+- Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs, and Web Development.**
 
-- ⚡ Fun fact **I love turning ideas into real-world web applications.**
+- Fun fact **I love turning ideas into real-world web applications.**
 
-- 📫 How to reach me **iabhinavchauhan.ac@gmail.com**
+- How to reach me **iabhinavchauhan.ac@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://abhinavchauhansite.netlify.app](https://abhinavchauhansite.netlify.app)**
+- All of my projects are available at **[https://abhinavchauhansite.netlify.app](https://abhinavchauhansite.netlify.app)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/13tVdOx9rFKb6LtzS-Hk8TULJvC58zN5T/view?usp=sharing](https://drive.google.com/file/d/13tVdOx9rFKb6LtzS-Hk8TULJvC58zN5T/view?usp=sharing)**
 

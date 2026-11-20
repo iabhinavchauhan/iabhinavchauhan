@@ -14,7 +14,7 @@
 
 - How to reach me **iabhinavchauhan.ac@gmail.com**
 
-- All of my projects are available at **[https://abhinavchauhansite.netlify.app](https://abhinavchauhansite.netlify.app)**
+- All of my projects are available at **[https://abhinavchauhan.pages.dev](https://abhinavchauhan.pages.dev)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/13tVdOx9rFKb6LtzS-Hk8TULJvC58zN5T/view?usp=sharing](https://drive.google.com/file/d/13tVdOx9rFKb6LtzS-Hk8TULJvC58zN5T/view?usp=sharing)**
 

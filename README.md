@@ -106,16 +106,6 @@ I enjoy developing projects that solve practical problems and provide meaningful
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iabhinavchauhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
